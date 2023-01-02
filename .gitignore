@@ -1,0 +1,16 @@
+anaume/
+binary/
+otu_clean
+otu_clean_not/
+otu_clean_not_clean/
+sample/
+skeleton1/
+skeleton2/
+skeleton2_dilate/
+longest/.vs
+longest/Debug
+longest/x64
+longest/longest.sln
+longest/longest.vcxproj
+longest/longest.vcxproj.filters
+longest/longest.vcxproj.user
